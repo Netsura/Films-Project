@@ -1,0 +1,24 @@
+.films{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 55px;
+    border-radius: 15px;    
+    background: #333;
+    transition: .3s;
+    cursor: pointer;
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btn:hover{
+    background: wheat;
+    transition: .3s;
+}

@@ -1,0 +1,29 @@
+header{
+    width: 1100px;
+    margin: 0 auto;
+    background: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: static;
+    padding: 0 15px;
+    border-radius: 10px;
+}
+
+nav{
+    max-width: 700px;
+    overflow-x: scroll;
+    display: flex;
+    gap: 14px;
+}
+
+.search{
+    position: relative;
+}
+.search-block{
+    width: 350px;
+    height: 450px;
+    background-color: #333;
+    position: absolute;
+    right: 1px;
+}

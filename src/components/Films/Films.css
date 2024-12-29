@@ -1,0 +1,14 @@
+img{
+    height: 500px;
+    border-radius: 9px;
+    width: 100%;
+}
+
+.filmsCard{
+    margin: 20px 0 ;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 335px;
+    text-align: center;
+    height: 560px;
+}
